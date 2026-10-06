@@ -11,7 +11,7 @@
 | Построение индекса | 23,77 с | 152,2 МБ |
 | Генерация сабмишна | 4,39 с | 75,4 МБ |
 
-Размер индекса — **45 405 695 байт ≈ 45,4 МБ**. Это сумма размеров файлов `postings.bin`, `lexicon.tsv` и `documents.tsv`, измеренная в WSL:
+Размер индекса: **45 405 695 байт ≈ 45,4 МБ**. Это сумма размеров файлов `postings.bin`, `lexicon.tsv` и `documents.tsv`, измеренная в WSL:
 
 `wc -c index/postings.bin index/lexicon.tsv index/documents.tsv`
 
