@@ -1,6 +1,7 @@
 # ДЗ 2. Текстовое ранжирование
 
-- Ник на Kaggle — anastassiyatseluiko
+Ник на Kaggle: `anastassiyatseluiko`
+
 - Публичный nDCG@10 — 0.61270
 - Локальный nDCG@10 на 200 отложенных запросах — 0.62682. Локальный TF-IDF — 0.61325
 
